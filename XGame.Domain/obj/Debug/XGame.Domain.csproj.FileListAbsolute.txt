@@ -1,0 +1,11 @@
+C:\Users\Washington\source\repos\XGame\XGame.Domain\obj\Debug\XGame.Domain.csprojAssemblyReference.cache
+C:\Users\Washington\source\repos\XGame\XGame.Domain\obj\Debug\XGame.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Washington\source\repos\XGame\XGame.Domain\bin\Debug\XGame.Domain.dll
+C:\Users\Washington\source\repos\XGame\XGame.Domain\bin\Debug\XGame.Domain.pdb
+C:\Users\Washington\source\repos\XGame\XGame.Domain\obj\Debug\XGame.Domain.dll
+C:\Users\Washington\source\repos\XGame\XGame.Domain\obj\Debug\XGame.Domain.pdb
+C:\Users\Washington\source\repos\XGame\XGame.Domain\bin\Debug\prmToolkit.NotificationPattern.dll
+C:\Users\Washington\source\repos\XGame\XGame.Domain\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Washington\source\repos\XGame\XGame.Domain\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Washington\source\repos\XGame\XGame.Domain\bin\Debug\en-US\prmToolkit.NotificationPattern.resources.dll
+C:\Users\Washington\source\repos\XGame\XGame.Domain\obj\Debug\XGame.Domain.csproj.CopyComplete

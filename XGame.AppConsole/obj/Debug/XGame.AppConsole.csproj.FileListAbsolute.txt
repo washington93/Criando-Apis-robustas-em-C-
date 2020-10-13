@@ -1,0 +1,14 @@
+C:\Users\Washington\source\repos\XGame\XGame.AppConsole\obj\Debug\XGame.AppConsole.csprojAssemblyReference.cache
+C:\Users\Washington\source\repos\XGame\XGame.AppConsole\obj\Debug\XGame.AppConsole.csproj.CoreCompileInputs.cache
+C:\Users\Washington\source\repos\XGame\XGame.AppConsole\bin\Debug\XGame.AppConsole.exe.config
+C:\Users\Washington\source\repos\XGame\XGame.AppConsole\bin\Debug\XGame.AppConsole.exe
+C:\Users\Washington\source\repos\XGame\XGame.AppConsole\bin\Debug\XGame.AppConsole.pdb
+C:\Users\Washington\source\repos\XGame\XGame.AppConsole\bin\Debug\XGame.Domain.dll
+C:\Users\Washington\source\repos\XGame\XGame.AppConsole\bin\Debug\XGame.Domain.pdb
+C:\Users\Washington\source\repos\XGame\XGame.AppConsole\obj\Debug\XGame.AppConsole.csproj.CopyComplete
+C:\Users\Washington\source\repos\XGame\XGame.AppConsole\obj\Debug\XGame.AppConsole.exe
+C:\Users\Washington\source\repos\XGame\XGame.AppConsole\obj\Debug\XGame.AppConsole.pdb
+C:\Users\Washington\source\repos\XGame\XGame.AppConsole\bin\Debug\prmToolkit.NotificationPattern.dll
+C:\Users\Washington\source\repos\XGame\XGame.AppConsole\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Washington\source\repos\XGame\XGame.AppConsole\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Washington\source\repos\XGame\XGame.AppConsole\bin\Debug\en-US\prmToolkit.NotificationPattern.resources.dll
