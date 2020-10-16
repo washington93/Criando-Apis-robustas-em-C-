@@ -9,3 +9,16 @@ C:\Users\Washington\source\repos\XGame\XGame.Domain\bin\Debug\System.Diagnostics
 C:\Users\Washington\source\repos\XGame\XGame.Domain\bin\Debug\System.Diagnostics.DiagnosticSource.xml
 C:\Users\Washington\source\repos\XGame\XGame.Domain\bin\Debug\en-US\prmToolkit.NotificationPattern.resources.dll
 C:\Users\Washington\source\repos\XGame\XGame.Domain\obj\Debug\XGame.Domain.csproj.CopyComplete
+F:\ws-vs2020\XGame\XGame.Domain\bin\Debug\XGame.Domain.dll
+F:\ws-vs2020\XGame\XGame.Domain\bin\Debug\XGame.Domain.pdb
+F:\ws-vs2020\XGame\XGame.Domain\bin\Debug\prmToolkit.NotificationPattern.dll
+F:\ws-vs2020\XGame\XGame.Domain\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\ws-vs2020\XGame\XGame.Domain\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+F:\ws-vs2020\XGame\XGame.Domain\bin\Debug\en-US\prmToolkit.NotificationPattern.resources.dll
+F:\ws-vs2020\XGame\XGame.Domain\obj\Debug\XGame.Domain.csprojAssemblyReference.cache
+F:\ws-vs2020\XGame\XGame.Domain\obj\Debug\XGame.Domain.csproj.CoreCompileInputs.cache
+F:\ws-vs2020\XGame\XGame.Domain\obj\Debug\XGame.Domain.csproj.CopyComplete
+F:\ws-vs2020\XGame\XGame.Domain\obj\Debug\XGame.Domain.dll
+F:\ws-vs2020\XGame\XGame.Domain\obj\Debug\XGame.Domain.pdb
+F:\ws-vs2020\XGame\XGame.Domain\obj\Debug\XGame.Domain.Resources.Message.resources
+F:\ws-vs2020\XGame\XGame.Domain\obj\Debug\XGame.Domain.csproj.GenerateResource.cache

@@ -5,6 +5,8 @@ using XGame.Domain.Entities;
 using XGame.Domain.ValueObjects;
 using XGame.Domain.Interfaces.Repositories;
 using XGame.Domain.Interfaces.Services;
+using XGame.Domain.Resources;
+using prmToolkit.NotificationPattern.Extensions;
 
 namespace XGame.Domain.Services
 {
@@ -38,21 +40,21 @@ namespace XGame.Domain.Services
         {
             if (request == null)
             {
-                throw new Exception("AutenticarJogadorRequest é Obrigatório.");
+                AddNotification("AutenticarJogadorRequest",
+                    Message.X0_E_OBRIGATORIO.ToFormat("AutenticarJogadorRequest"));
             }
 
-            var email = new Email("paulo"); 
+            var email = new Email(request.Email); 
+            var jogador = new Jogador(email, request.Senha);
 
-            var jogador = new Jogador(email, "123");
-
-            AddNotifications(jogador);
+            AddNotifications(jogador, email);
 
             if (jogador.IsInvalid())
             {
                 return null;
             }
 
-            var response = _repositoryJogador.AuthenticarJogador(request);
+            var response = _repositoryJogador.AuthenticarJogador(jogador.Email.Endereco, jogador.Senha);
 
             return response;
         }

@@ -12,3 +12,17 @@ C:\Users\Washington\source\repos\XGame\XGame.AppConsole\bin\Debug\prmToolkit.Not
 C:\Users\Washington\source\repos\XGame\XGame.AppConsole\bin\Debug\System.Diagnostics.DiagnosticSource.dll
 C:\Users\Washington\source\repos\XGame\XGame.AppConsole\bin\Debug\System.Diagnostics.DiagnosticSource.xml
 C:\Users\Washington\source\repos\XGame\XGame.AppConsole\bin\Debug\en-US\prmToolkit.NotificationPattern.resources.dll
+F:\ws-vs2020\XGame\XGame.AppConsole\bin\Debug\XGame.AppConsole.exe.config
+F:\ws-vs2020\XGame\XGame.AppConsole\bin\Debug\XGame.AppConsole.exe
+F:\ws-vs2020\XGame\XGame.AppConsole\bin\Debug\XGame.AppConsole.pdb
+F:\ws-vs2020\XGame\XGame.AppConsole\bin\Debug\prmToolkit.NotificationPattern.dll
+F:\ws-vs2020\XGame\XGame.AppConsole\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\ws-vs2020\XGame\XGame.AppConsole\bin\Debug\XGame.Domain.dll
+F:\ws-vs2020\XGame\XGame.AppConsole\bin\Debug\XGame.Domain.pdb
+F:\ws-vs2020\XGame\XGame.AppConsole\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+F:\ws-vs2020\XGame\XGame.AppConsole\bin\Debug\en-US\prmToolkit.NotificationPattern.resources.dll
+F:\ws-vs2020\XGame\XGame.AppConsole\obj\Debug\XGame.AppConsole.csprojAssemblyReference.cache
+F:\ws-vs2020\XGame\XGame.AppConsole\obj\Debug\XGame.AppConsole.csproj.CoreCompileInputs.cache
+F:\ws-vs2020\XGame\XGame.AppConsole\obj\Debug\XGame.AppConsole.csproj.CopyComplete
+F:\ws-vs2020\XGame\XGame.AppConsole\obj\Debug\XGame.AppConsole.exe
+F:\ws-vs2020\XGame\XGame.AppConsole\obj\Debug\XGame.AppConsole.pdb
