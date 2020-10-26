@@ -61,11 +61,29 @@ namespace XGame.Domain.Resources {
         }
         
         /// <summary>
+        ///   Consulta uma cadeia de caracteres localizada semelhante a {0} é obrigatória e deve conter entre {1} e {2} caracteres..
+        /// </summary>
+        public static string X0_E_OBRIGATORIA_E_DEVE_CONTER_ENTRE_X1_E_X2_CARACTERES {
+            get {
+                return ResourceManager.GetString("X0_E_OBRIGATORIA_E_DEVE_CONTER_ENTRE_X1_E_X2_CARACTERES", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Consulta uma cadeia de caracteres localizada semelhante a {0} é Obrigatório..
         /// </summary>
         public static string X0_E_OBRIGATORIO {
             get {
                 return ResourceManager.GetString("X0_E_OBRIGATORIO", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta uma cadeia de caracteres localizada semelhante a {0} é obrigatório e deve conter entre {1} e {2} caracteres..
+        /// </summary>
+        public static string X0_E_OBRIGATORIO_E_DEVE_CONTER_ENTRE_X1_E_X2_CARACTERES {
+            get {
+                return ResourceManager.GetString("X0_E_OBRIGATORIO_E_DEVE_CONTER_ENTRE_X1_E_X2_CARACTERES", resourceCulture);
             }
         }
         

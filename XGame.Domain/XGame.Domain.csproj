@@ -186,6 +186,7 @@
     <Compile Include="Entities\JogoPlataforma.cs" />
     <Compile Include="Entities\MeusJogos.cs" />
     <Compile Include="Entities\Plataforma.cs" />
+    <Compile Include="Extensions\StringsExtension.cs" />
     <Compile Include="Interfaces\Arguments\IRequest.cs" />
     <Compile Include="Interfaces\Arguments\IResponse.cs" />
     <Compile Include="Interfaces\Repositories\IRepositoryJogador.cs" />
